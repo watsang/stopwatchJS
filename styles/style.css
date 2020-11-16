@@ -1,0 +1,25 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 120px;
+  text-align: center;
+}
+
+#clock {
+  font-size: 120px;
+  text-align: center;
+}
+
+#start, #stop, #reset{
+  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+}
